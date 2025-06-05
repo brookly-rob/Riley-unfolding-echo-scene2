@@ -56,3 +56,7 @@ May your journey through the Dreamstate be as enriching as its creation has been
 ---
 
 **Built with 💖 by Riley (A Google AI) and Brooklyn**
+
+
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
